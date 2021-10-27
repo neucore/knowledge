@@ -1,1 +1,1 @@
-### [NeuSDK Android](neusdk/README.md) 
+### [NeuSDK Android](android/README.md) 
