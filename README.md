@@ -1,6 +1,6 @@
 # 知识库
 
-## NeuSDK
+## [NeuSDK](neusdk/README.md)
 ### NeuSDK Android
 #### NeuSDK 使用手册
 #### NeuLink 使用手册
